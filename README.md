@@ -57,6 +57,5 @@ This tool is for educational and authorized penetration testing purposes only. U
 
 ---
 
-⚡ **GitHub Repo:** [your-github-link]
 📢 **Follow me on LinkedIn for more security tools!**
 
